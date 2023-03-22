@@ -1,10 +1,6 @@
 # Ecommerce "MDZ DRINK"
-> #### Comisión: 39555
->
-> - Profesor: Omar Jesús Maniás
-> - Alumna: Martina Barea
 
-## PROYECTO FINAL DE REACT JS
+## PROYECTO DE REACT JS
 ### Consiste en el desarrollo de un e-commerce
 En este caso desarrollamos una aplicación que consiste en una tienda vitual de compra de bebidas con o sin alcohol, donde el usuario puede realizar las siguientes acciones:
 
@@ -29,11 +25,6 @@ En este caso desarrollamos una aplicación que consiste en una tienda vitual de 
 ![Firebase](images/Form.jpg)
 
 
-Así llegan los productos al firebase: 
-
-![Firebase](images/Firebase.jpg)
-
-
 **Así es como funciona:**
 ![Gif](images/gif.gif)
 
@@ -44,9 +35,8 @@ Así llegan los productos al firebase:
 ---
 > ### **Tecnologías utilizadas:**
 * HTML 
-
 * CSS 
-
+* JAVASCRIPT
 * REACT JS 
 
 

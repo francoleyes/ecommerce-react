@@ -6,27 +6,13 @@ En este caso desarrollamos una aplicación que consiste en una tienda vitual de 
 
 * Visualizar la totalidad de productos, su detalle, precio y stock
 
-![Productos, detalle, precio y stock](images/1.jpg)
-
 * Filtrar productos por categoria 
-
-![Categorias de productos](images/2.jpg)
 
 * Agregar productos al carrito de compras
 
-![Carrito de compras](images/3.jpg)
-
 * Adquirir el producto a traves de un formulario
 
-![Formulario](images/form1.jpg)
-
 * Cuando completas la compra, te aparece un ID de compra.
-
-![Firebase](images/Form.jpg)
-
-
-**Así es como funciona:**
-![Gif](images/gif.gif)
 
 ---
 

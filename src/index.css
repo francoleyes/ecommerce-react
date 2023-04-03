@@ -1,0 +1,26 @@
+.counter{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.counter div{
+    width:3rem;
+}
+
+.links-router{
+    text-decoration: none;
+}
+
+.card-product{
+    width: 15rem;
+}
+
+.card-form{
+    width: 30%;
+    margin-top: 10rem;
+}
+
+.btn-send{
+    margin-top: 1.5rem;
+    width: 100%;
+}
